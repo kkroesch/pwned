@@ -1,0 +1,5 @@
+---
+applications:
+- name: pwndchk
+  memory: 1G
+  instances: 1
